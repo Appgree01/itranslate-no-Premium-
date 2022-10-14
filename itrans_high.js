@@ -1,6 +1,6 @@
-var hcsavn = JSON.parse($response.body);
+var itrans = JSON.parse($response.body);
 
-hcsavn = {
+itrans = {
   "licenses" : [
     {
       "product_id" : "com.itranslate.pro.ios.high.01y_07dt",
@@ -58,4 +58,4 @@ hcsavn = {
   ]
 };
 
-$done({body: JSON.stringify(hcsavn)});
+$done({body: JSON.stringify(itrans)});
