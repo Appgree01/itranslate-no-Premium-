@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/Appgree01/itranslate-no-Premium-/main/Itranslate%20pro.sgmodule
 #!name=App Itranslate Pro Year 5138
-#!desc=Dùng thử miễn phí trước khi hết hạn thì ấn khôi phục mua hàng và tận hưởng Pro thôi
+#!desc=Dùng thử miễn phí trước khi hết hạn thì ấn khôi phục mua hàng và tận hưởng Pro thôi tắt proxy hoặc module vẫn được 
 
 [Script]
 Itranslatepro = type=http-response,script-path= https://raw.githubusercontent.com/Appgree01/itranslate-no-Premium-/main/itrans_high.js,pattern=^http(s)?:\/\/ssl-api\.itranslateapp\.com\/accounts\/.+\/subscriptions\/.+\/ios$,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
