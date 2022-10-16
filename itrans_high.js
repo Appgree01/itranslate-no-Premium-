@@ -7,7 +7,7 @@ itrans = {
       "is_trial_period" : true,
       "original_transaction_id" : "380001072937385",
       "transaction_id" : "380001073665641",
-      "expires_date_ms" : 98993239748000,
+      "expires_date_ms" : 99999999868000,
       "bundle_id" : "com.outerspaceapps.itranslate"
     },
     {
@@ -15,7 +15,7 @@ itrans = {
       "is_trial_period" : true,
       "original_transaction_id" : "380001072937385",
       "transaction_id" : "380001073665641",
-      "expires_date_ms" : 98993239748000,
+      "expires_date_ms" : 99999999868000,
       "bundle_id" : "com.outerspaceapps.itranslate"
     }
   ]
