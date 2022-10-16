@@ -1,9 +1,9 @@
 #!url=https://raw.githubusercontent.com/Appgree01/itranslate-no-Premium-/main/Itranslate%20pro.sgmodule
-#!name=itranslate Pro Beta 3
+#!name=itranslate 5138
 #!desc=hack xong tắt đi cũng được nhớ ấn restore purchase là xong và cài đặt giải mã https trc ko thì ko xài đc đâu
 
 [Script]
-Itranslate = type=http-response,script-path= https://raw.githubusercontent.com/Appgree01/itranslate-no-Premium-/main/itrans_high.js,pattern=^http(s)?:\/\/ssl-api\.itranslateapp\.com\/accounts\/.+\/subscriptions\/.+\/ios$,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
+Itranslatepro = type=http-response,script-path= https://raw.githubusercontent.com/Appgree01/itranslate-no-Premium-/main/itrans_high.js,pattern=^http(s)?:\/\/ssl-api\.itranslateapp\.com\/accounts\/.+\/subscriptions\/.+\/ios$,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
 
 [MITM]
 hostname = %APPEND% ssl-api.itranslateapp.com,*-api.itranslateapp.com
