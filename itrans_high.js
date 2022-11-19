@@ -4,10 +4,10 @@ itrans = {
   "licenses" : [
     {
       "product_id" : "com.itranslate.pro.ios.high.01y_07dt",
-      "is_trial_period" : true,
+      "is_trial_period" : false,
       "original_transaction_id" : "380001072937385",
       "transaction_id" : "380001073665641",
-      "expires_date_ms" : 99999999868000,
+      "expires_date_ms" : 253402300799,
       "bundle_id" : "com.outerspaceapps.itranslate"
     },
     {
@@ -15,7 +15,7 @@ itrans = {
       "is_trial_period" : true,
       "original_transaction_id" : "380001072937385",
       "transaction_id" : "380001073665641",
-      "expires_date_ms" : 99999999868000,
+      "expires_date_ms" : 253402300799,
       "bundle_id" : "com.outerspaceapps.itranslate"
     }
   ]
